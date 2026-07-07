@@ -1,0 +1,6 @@
+{
+  "name": "Royal Pool Legends",
+  "description": "Next-generation AAA 3D billiards mobile game featuring ultra-realistic 8-ball physics, real-time multiplayer simulation, 5000+ career levels, premium cues, and luxury arenas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
